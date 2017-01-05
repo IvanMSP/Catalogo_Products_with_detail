@@ -1,0 +1,3 @@
+# Catalogo_Products_with_detail
+
+Ejemplo con Django, en donde te muestro como hacer un catalogo de productos con su imagen, nombre, precio y categoria...
